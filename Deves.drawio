@@ -760,7 +760,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Re-host" id="tI6ZIaNo3-mkPrA93AV9">
-    <mxGraphModel dx="2112" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1761" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-0" />
         <mxCell id="tb_PBKj6HNSfujI4YvEi-1" parent="tb_PBKj6HNSfujI4YvEi-0" />
@@ -1222,7 +1222,7 @@
           <mxGeometry height="60" width="120" x="-198" y="1065" as="geometry" />
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-22" parent="tb_PBKj6HNSfujI4YvEi-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Service 61:&lt;br&gt;Master Management" vertex="1">
-          <mxGeometry height="60" width="120" x="171" y="1149" as="geometry" />
+          <mxGeometry height="60" width="120" x="-504.5" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-26" edge="1" parent="tb_PBKj6HNSfujI4YvEi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="8tirnlx0VS66k5TS740m-21">
           <mxGeometry relative="1" as="geometry">
@@ -1235,25 +1235,6 @@
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-27" connectable="0" parent="8tirnlx0VS66k5TS740m-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="database only" vertex="1">
           <mxGeometry relative="1" x="0.6996" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-28" edge="1" parent="tb_PBKj6HNSfujI4YvEi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="8tirnlx0VS66k5TS740m-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-192" y="1180" />
-              <mxPoint x="-63" y="1180" />
-            </Array>
-            <mxPoint x="-192" y="1231" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-29" connectable="0" parent="8tirnlx0VS66k5TS740m-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="master-data,&lt;br&gt;scb staff data" vertex="1">
-          <mxGeometry relative="1" x="0.3087" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lTue3CG6UeS6oeJds1m_-0" connectable="0" parent="8tirnlx0VS66k5TS740m-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
-          <mxGeometry relative="1" x="-0.4528" y="-5" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1293,7 +1274,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-45" edge="1" parent="tb_PBKj6HNSfujI4YvEi-1" source="8tirnlx0VS66k5TS740m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8tirnlx0VS66k5TS740m-48">
+        <mxCell id="8tirnlx0VS66k5TS740m-45" edge="1" parent="tb_PBKj6HNSfujI4YvEi-1" source="8tirnlx0VS66k5TS740m-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8tirnlx0VS66k5TS740m-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-46" connectable="0" parent="8tirnlx0VS66k5TS740m-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="read payment textfile import&lt;br&gt;(10:00, 15:00 everyday)" vertex="1">
@@ -1305,18 +1286,18 @@
           <mxGeometry height="60" width="120" x="57" y="1375" as="geometry" />
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-48" parent="tb_PBKj6HNSfujI4YvEi-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Service 4:&lt;br&gt;ระบบชำระเบี้ยและจัดการผลตอบแทน (PC SDIS)" vertex="1">
-          <mxGeometry height="60" width="120" x="-113" y="1590" as="geometry" />
+          <mxGeometry height="60" width="120" x="57" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-49" edge="1" parent="tb_PBKj6HNSfujI4YvEi-1" source="8tirnlx0VS66k5TS740m-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8tirnlx0VS66k5TS740m-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-50" connectable="0" parent="8tirnlx0VS66k5TS740m-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="import scb payment&lt;br&gt;(counter bank)" vertex="1">
           <mxGeometry relative="1" x="-0.4297" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-51" parent="tb_PBKj6HNSfujI4YvEi-1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" value="Deves Staff" vertex="1">
-          <mxGeometry height="43.18" width="28.5" x="-413" y="1599" as="geometry" />
+          <mxGeometry height="43.18" width="28.5" x="374" y="1598.41" as="geometry" />
         </mxCell>
         <mxCell id="P1oKGTdHWGBsn8DzrBRv-0" parent="tb_PBKj6HNSfujI4YvEi-1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" value="SCB ADF S" vertex="1">
           <mxGeometry height="50" width="40" x="1426" y="625.7" as="geometry" />
