@@ -757,7 +757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Re-host" id="tI6ZIaNo3-mkPrA93AV9">
-    <mxGraphModel dx="4009" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3522" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-0" />
         <mxCell id="tb_PBKj6HNSfujI4YvEi-1" parent="tb_PBKj6HNSfujI4YvEi-0" />
@@ -846,9 +846,6 @@
         <mxCell id="8tirnlx0VS66k5TS740m-19" parent="tb_PBKj6HNSfujI4YvEi-48" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" value="Customer" vertex="1">
           <mxGeometry height="50" width="33" x="177" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-20" parent="tb_PBKj6HNSfujI4YvEi-48" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" value="QR Payment" vertex="1">
-          <mxGeometry height="50" width="40" x="320" y="690" as="geometry" />
-        </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-21" parent="tb_PBKj6HNSfujI4YvEi-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Service 37:&lt;br&gt;Deves Sales System&lt;br&gt;(DSS)" vertex="1">
           <mxGeometry height="60" width="120" x="812" y="225" as="geometry" />
         </mxCell>
@@ -932,24 +929,6 @@
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-37" edge="1" parent="tb_PBKj6HNSfujI4YvEi-48" source="8tirnlx0VS66k5TS740m-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="8tirnlx0VS66k5TS740m-48">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-38" edge="1" parent="tb_PBKj6HNSfujI4YvEi-48" source="8tirnlx0VS66k5TS740m-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="8tirnlx0VS66k5TS740m-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-39" connectable="0" parent="8tirnlx0VS66k5TS740m-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="QR Payment" vertex="1">
-          <mxGeometry relative="1" x="0.526" y="2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-40" edge="1" parent="tb_PBKj6HNSfujI4YvEi-48" source="8tirnlx0VS66k5TS740m-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="356.9999999999998" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8tirnlx0VS66k5TS740m-41" connectable="0" parent="8tirnlx0VS66k5TS740m-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2c2p-PaymentGateway" vertex="1">
-          <mxGeometry relative="1" x="0.6929" y="-5" as="geometry">
-            <mxPoint x="40" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8tirnlx0VS66k5TS740m-42" parent="tb_PBKj6HNSfujI4YvEi-48" style="rounded=1;whiteSpace=wrap;html=1;" value="Service 86:&lt;br&gt;ระบบ Gen QRCode" vertex="1">
           <mxGeometry height="60" width="120" x="758" y="630" as="geometry" />
@@ -1405,6 +1384,9 @@
         </mxCell>
         <mxCell id="tjLj-3zypg6t2hpNJapd-58" parent="tb_PBKj6HNSfujI4YvEi-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;2c2p-Payment&lt;br&gt;Gateway&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1730" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="tjLj-3zypg6t2hpNJapd-59" parent="tb_PBKj6HNSfujI4YvEi-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/qr-code-1455.svg" value="QR Payment" vertex="1">
+          <mxGeometry height="76" width="76" x="1712" y="719.7" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
