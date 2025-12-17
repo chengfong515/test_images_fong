@@ -1261,9 +1261,6 @@
         <mxCell id="RbfeEgplWSdQsa1UiVay-3" parent="RbfeEgplWSdQsa1UiVay-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" value="AWS Cloud" vertex="1">
           <mxGeometry height="910" width="1212" x="748" y="890" as="geometry" />
         </mxCell>
-        <mxCell id="RbfeEgplWSdQsa1UiVay-45" parent="RbfeEgplWSdQsa1UiVay-3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" value="Internet&lt;br&gt;Gateway" vertex="1">
-          <mxGeometry height="78" width="78" x="602" y="26" as="geometry" />
-        </mxCell>
         <mxCell id="RbfeEgplWSdQsa1UiVay-5" parent="RbfeEgplWSdQsa1UiVay-1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;opacity=30;" value="ap-southeast-7b (DR)" vertex="1">
           <mxGeometry height="460" width="390" x="1418" y="1130" as="geometry" />
         </mxCell>
