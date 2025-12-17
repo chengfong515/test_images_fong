@@ -997,12 +997,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Re-hostOld" id="tI6ZIaNo3-mkPrA93AV9">
-    <mxGraphModel dx="1484" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2969" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-0" />
         <mxCell id="tb_PBKj6HNSfujI4YvEi-1" parent="tb_PBKj6HNSfujI4YvEi-0" />
         <mxCell id="tb_PBKj6HNSfujI4YvEi-2" parent="tb_PBKj6HNSfujI4YvEi-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" value="AWS Cloud" vertex="1">
-          <mxGeometry height="1090" width="1782" x="748" y="830" as="geometry" />
+          <mxGeometry height="1090" width="1552" x="748" y="830" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-3" parent="tb_PBKj6HNSfujI4YvEi-1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" value="ap-southeast-7b" vertex="1">
           <mxGeometry height="460" width="390" x="1418" y="1130" as="geometry" />
@@ -1047,10 +1047,10 @@
           <mxGeometry height="78" width="78" x="1915.5" y="1431" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-34" parent="tb_PBKj6HNSfujI4YvEi-1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" value="VPC Thailand Region" vertex="1">
-          <mxGeometry height="890" width="1540" x="890" y="950" as="geometry" />
+          <mxGeometry height="890" width="1310" x="890" y="950" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-35" parent="tb_PBKj6HNSfujI4YvEi-34" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" value="Internet&lt;br&gt;Gateway" vertex="1">
-          <mxGeometry height="78" width="78" x="776" y="-51" as="geometry" />
+          <mxGeometry height="78" width="78" x="695" y="-51" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-36" parent="tb_PBKj6HNSfujI4YvEi-34" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.nat_gateway;" value="NAT&lt;div&gt;Gateway&lt;/div&gt;" vertex="1">
           <mxGeometry height="78" width="78" x="748" y="279" as="geometry" />
@@ -1069,9 +1069,6 @@
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-41" parent="tb_PBKj6HNSfujI4YvEi-34" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.backup;" value="AWS Backup" vertex="1">
           <mxGeometry height="78" width="78" x="100" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tb_PBKj6HNSfujI4YvEi-45" parent="tb_PBKj6HNSfujI4YvEi-34" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.flow_logs;" value="VPC Flow Logs" vertex="1">
-          <mxGeometry height="78" width="78" x="1504" y="40" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-46" parent="tb_PBKj6HNSfujI4YvEi-34" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.vpn_gateway;" value="Virtual Private&lt;br&gt;Gateway" vertex="1">
           <mxGeometry height="78" width="78" x="-40" y="400" as="geometry" />
@@ -1122,10 +1119,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-62" parent="tb_PBKj6HNSfujI4YvEi-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" value="Route 53" vertex="1">
-          <mxGeometry height="78" width="78" x="1666" y="773" as="geometry" />
+          <mxGeometry height="78" width="78" x="1585" y="773" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-63" parent="tb_PBKj6HNSfujI4YvEi-1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" value="Internet" vertex="1">
-          <mxGeometry height="119.7" width="190" x="1610" y="599.15" as="geometry" />
+          <mxGeometry height="119.7" width="190" x="1529" y="599.15" as="geometry" />
         </mxCell>
         <mxCell id="tb_PBKj6HNSfujI4YvEi-64" edge="1" parent="tb_PBKj6HNSfujI4YvEi-1" source="tb_PBKj6HNSfujI4YvEi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="tb_PBKj6HNSfujI4YvEi-62">
           <mxGeometry relative="1" as="geometry" />
@@ -1177,6 +1174,9 @@
         </mxCell>
         <mxCell id="kTqKx9h03Otp0VeMdMWK-5" parent="tb_PBKj6HNSfujI4YvEi-1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.ec2;opacity=30;" value="&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);&quot;&gt;D-Application&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);&quot;&gt;(DSS for SCB)&lt;/span&gt;" vertex="1">
           <mxGeometry height="78" width="78" x="1910.5" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="tb_PBKj6HNSfujI4YvEi-45" parent="tb_PBKj6HNSfujI4YvEi-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.flow_logs;" value="VPC Flow Logs" vertex="1">
+          <mxGeometry height="78" width="78" x="2160" y="977" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
