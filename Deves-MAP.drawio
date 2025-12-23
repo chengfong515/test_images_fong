@@ -2051,7 +2051,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LandingZone" id="QOU7peh6Zw9PnuuIiNXd">
-    <mxGraphModel dx="-1250" dy="1458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-123" dy="2353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uCsB0vYFZ5B4QqpFxqhs-0" />
         <mxCell id="uCsB0vYFZ5B4QqpFxqhs-1" parent="uCsB0vYFZ5B4QqpFxqhs-0" />
@@ -2143,10 +2143,10 @@
           <mxGeometry height="78" width="78" x="610" y="170" as="geometry" />
         </mxCell>
         <mxCell id="t7wRwUASSC2Z95SRaYHg-4" parent="t7wRwUASSC2Z95SRaYHg-6" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" value="Route Tables&lt;br&gt;PROD" vertex="1">
-          <mxGeometry height="76" width="78" x="790" y="236" as="geometry" />
+          <mxGeometry height="76" width="78" x="85" y="583" as="geometry" />
         </mxCell>
         <mxCell id="t7wRwUASSC2Z95SRaYHg-5" parent="t7wRwUASSC2Z95SRaYHg-6" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.route_table;" value="Route Tables&lt;br&gt;NONPROD" vertex="1">
-          <mxGeometry height="76" width="78" x="790" y="40" as="geometry" />
+          <mxGeometry height="76" width="78" x="225" y="583" as="geometry" />
         </mxCell>
         <mxCell id="BgCNXC-NmGMs9xG9iMSL-9" parent="t7wRwUASSC2Z95SRaYHg-6" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" value="Public subnet" vertex="1">
           <mxGeometry height="190" width="220" x="90" y="40" as="geometry" />
