@@ -2051,7 +2051,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="LandingZone" id="QOU7peh6Zw9PnuuIiNXd">
-    <mxGraphModel dx="-517" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1430" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uCsB0vYFZ5B4QqpFxqhs-0" />
         <mxCell id="uCsB0vYFZ5B4QqpFxqhs-1" parent="uCsB0vYFZ5B4QqpFxqhs-0" />
@@ -2425,11 +2425,6 @@
             </Array>
             <mxPoint x="3209" y="2011.52" as="sourcePoint" />
             <mxPoint x="3391" y="1917" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="g53odwSUkTvec1xAGVk6-5" connectable="0" parent="uCsB0vYFZ5B4QqpFxqhs-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" value="Text" vertex="1">
-          <mxGeometry relative="1" x="-0.2284" y="-5" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uCsB0vYFZ5B4QqpFxqhs-8" edge="1" parent="uCsB0vYFZ5B4QqpFxqhs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="uCsB0vYFZ5B4QqpFxqhs-61">
